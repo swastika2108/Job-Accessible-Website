@@ -12,3 +12,6 @@ The problem that we identified as worth solving is that  disabled individuals of
 > start from xamp control
 > pip install -r requirements.txt <br>
 > open with php live sever
+
+
+![plot](Screenshot 2024-05-10 234222.png)
