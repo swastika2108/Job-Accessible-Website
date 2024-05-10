@@ -18,3 +18,7 @@ The problem that we identified as worth solving is that  disabled individuals of
 
 ## Website Features provided
 ![alt text](https://github.com/swati323ch/Job-Accessible-website/blob/main/Screenshot%202024-05-10%20235520.png?raw=true)
+
+## Contributors
+Ch Swati,Swastika Satya
+Tanisi Jha,Shashwati Bhattacharya
