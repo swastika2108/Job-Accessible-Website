@@ -13,5 +13,8 @@ The problem that we identified as worth solving is that  disabled individuals of
 > pip install -r requirements.txt <br>
 > open with php live sever
 
+## Website UI Design 
+![alt text](https://github.com/swati323ch/Job-Accessible-website/blob/main/Screenshot%202024-05-10%20234222.png?raw=true)
 
-![plot](Screenshot 2024-05-10 234222.png)
+## Website Features provided
+![alt text](https://github.com/swati323ch/Job-Accessible-website/blob/main/Screenshot%202024-05-10%20235520.png?raw=true)
